@@ -2,7 +2,7 @@
 % Execute with function findspin_PPA.m and lyameba_basic.m
 %-------------------------------------Introduction-------------------------------------------------
 %Author: Yusheng Huang (Created Date: 10.24 2020)
-%Use this file to compare the originally PPA with the MATLAB function in the shortest path problem.
+%Use this file to compare the original PPA with the MATLAB function in the shortest path problem.
 %--------------------------------------------------------------------------------------------------
 %--------------------Warning--------------------------------
 % Every time you run this file you would create a new graph.
@@ -36,7 +36,7 @@ time=toc %%for executing time calculation
 %P is the link set of the shortest path
 %D is the length of the shortest path 
 
-%% Call the originally PPA
+%% Call the original PPA
 [Qbasic,Dbasic,iteBasic,time_basic,d_PPA,nodelist]=lyameba_basic(matrix_graph,Node_start,Node_end);
 iteBasic %output the number of iterations 
 time_basic  %output the executing time
