@@ -1,3 +1,3 @@
-# Originally PPA algorithm 
+# Original PPA algorithm 
 
-This is the reproduction of the originally PPA algorithm.
+This is the reproduction of the original PPA algorithm.
