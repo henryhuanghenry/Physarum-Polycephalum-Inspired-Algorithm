@@ -1,6 +1,10 @@
 # Physarum Polycephalum Inspired Algorithm(PPA)
 The PPA is also known as the Physarum Solver.
-This repository contains codes of the PPA_based_algorithms. We will clearly point out which algorithms contained are reproduced but not originally proposed by us and which are originally proposed by us.
+This repository contains codes of the PPA_based_algorithms. 
+
+We want to mantain a series of PPA based algorithms in the Github in the future, hoping to flourish the relevant researches.
+We will clearly point out which algorithms contained are reproduced but not originally proposed by us and which are originally proposed by us.
+
 ## Author(s)：
 Henry Huang (*Email:henryhuanghenry at outlook dot com*)
 ## This repository currently contains the following algorithm(s):
