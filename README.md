@@ -10,6 +10,7 @@ Henry Huang (*Email:henryhuanghenry at outlook dot com*)
 ## This repository currently contains the following algorithm(s):
 * The reproduction of the **original PPA algorithm**. (Originally proposed by Atsushi Tero et al.([Rules for Biologically Inspired Adaptive Network Design](http://www.sciencemag.org/cgi/content/full/327/5964/439)). We also refer to the article [An Improved Physarum polycephalum Algorithm for the Shortest Path Problem
 ](http://dx.doi.org/10.1155/2014/487069) when we created the codes.)
+* The EDPPA, which is our new work of accelerating the OPPA. This work is still under review.
 * To be continued...
 
 
